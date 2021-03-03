@@ -1,5 +1,5 @@
-.pdf
-.gz
-.log
-.aux
-.swp
+*.pdf
+*.gz
+*.log
+*.aux
+*.swp
